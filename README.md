@@ -1,2 +1,2 @@
-# spring-boot-demo
+# spring-boot-example
 learn spring boot
